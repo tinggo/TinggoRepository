@@ -4,12 +4,6 @@ Test sync dialog of tortoiseGit
 
 Test for local trunk
 
-<<<<<<< HEAD
-test for cherry pick
-=======
 test for cherry pick
 
 finish a feature
-
-fix a bug of previous feature
->>>>>>> 15c1cc0... fix a bug of previous feature
