@@ -1,1 +1,3 @@
 Teset tortoiseGit
+
+Test sync dialog of tortoiseGit
