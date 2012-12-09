@@ -3,3 +3,5 @@ Teset tortoiseGit
 Test sync dialog of tortoiseGit
 
 Test for local trunk
+
+test for cherry pick
