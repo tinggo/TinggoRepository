@@ -4,3 +4,4 @@ Test sync dialog of tortoiseGit
 
 test again
 test again2
+test again3
