@@ -9,4 +9,4 @@ asd new branch trunk
 
 check two trunk
 
-check tree master
+check three trunk
