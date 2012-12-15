@@ -11,4 +11,4 @@ check two trunk
 
 check three trunk
 
-check four master
+merge trunk to master check four master   
